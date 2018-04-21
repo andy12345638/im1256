@@ -8,7 +8,6 @@ http://www.ireader-opto.com/Products/im138wxqrs.html
 可紀錄12路的電壓(V)、電流(A)、有功功率(W)、累計使用電量(KWH)、功率因數、頻率
 透過RS485將訊號傳出，用RS485轉USB的晶片傳入樹梅派
 
-測試
 
 
 ---
